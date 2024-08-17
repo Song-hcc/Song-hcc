@@ -1,11 +1,11 @@
-# 学生管理系统
+## 学生管理系统
 
-## 介绍
+### 介绍
 语言：C语言
 界面：控制台
 实现方法：单链表、文件操作
 
-## 功能
+### 功能
 1.录入学生信息                 
 2.打印学生信息                  
 3.保存学生信息                  
@@ -17,10 +17,11 @@
 9.学生成绩排名                  
 0.  退出系统                    
 
-## 功能图
+### 功能图
+**如下**
 
 ####菜单栏
-![1e7fc85aa7eb048ed9fe156e9d00baa](https://github.com/user-attachments/assets/84a92bca-3257-48ad-89e6-bed0789bdc97)
+![image.png](https://github.com/Song-hcc/Song-hcc/blob/main/images/1e7fc85aa7eb048ed9fe156e9d00baa.png)
 
 ####打印
 ![6e24d316a05caae301de0317f523fd4](https://github.com/user-attachments/assets/6b713adb-d4b7-4364-9e83-62ab2008b938)
