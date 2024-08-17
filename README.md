@@ -32,7 +32,29 @@
 ####排序
 ![79430cb05ed74aa7db3ff3847d933d8](https://github.com/user-attachments/assets/f7156eed-77e6-4052-a9c6-75778e6574a4)
 
+### 四、功能图（部分）
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:06:45_image.png)
 
+#### 学生端功能：
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:06:19_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:06:29_image.png)
+
+#### 教师端功能：
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:07:08_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:07:16_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:07:24_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:07:33_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:07:42_image.png)
+
+#### 管理员端功能：
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:08:04_image.png)
+
+![image.png](https://store.ptcc9.top/notmaker/user_upload/ba15bc64d0b24c178659372c9c4386bd/2024-02-24%2020:08:10_image.png)
 
 
 
