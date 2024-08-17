@@ -18,6 +18,15 @@
 0.  退出系统                    
 
 #### 功能图
+菜单栏
+![https://github.com/Song-hcc/Song-hcc/blob/main/images/1e7fc85aa7eb048ed9fe156e9d00baa.png]
+打印
+![6e24d316a05caae301de0317f523fd4](https://github.com/user-attachments/assets/6b713adb-d4b7-4364-9e83-62ab2008b938)
+统计
+![5b0fa5bc979964daa65b8d0c257af8e](https://github.com/user-attachments/assets/be229cda-7540-46c8-b822-1e75d1628856)
+排序
+![79430cb05ed74aa7db3ff3847d933d8](https://github.com/user-attachments/assets/f7156eed-77e6-4052-a9c6-75778e6574a4)
+
 
 
 
