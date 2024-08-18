@@ -21,7 +21,7 @@
 ### 三、功能图
 
 #### 菜单
-![image.png](https://github.com/Song-hcc/Song-hcc/blob/main/images/1e7fc85aa7eb048ed9fe156e9d00baa.png)
+![1e7fc85aa7eb048ed9fe156e9d00baa](https://github.com/user-attachments/assets/1c3e90e9-ee42-4125-8109-d6c46187d3e5)
 
 #### 打印
 ![6e24d316a05caae301de0317f523fd4](https://github.com/user-attachments/assets/6b713adb-d4b7-4364-9e83-62ab2008b938)
